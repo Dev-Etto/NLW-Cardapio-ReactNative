@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "nlw-cardapio-react-native",
-    "slug": "nlw-cardapio-react-native",
+    "name": "Cardápio Digital",
+    "slug": "cardapio-digital",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
